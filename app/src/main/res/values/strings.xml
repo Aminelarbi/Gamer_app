@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">gamerappp</string>
+    <string name="news">News</string>
+    <string name="events">Events</string>
+    <string name="profile">Profile</string>
+
+    <string name="forget">Forget password</string>
+    <string name="register">Don\'t have an account? <u>Register Now</u></string>
+    <string name="forget1">Forget password</string>
+    <string name="terme">By registering you agree to our <u>Terms and Conditions</u> and <u>Privacy Policy</u></string>
+    <string name="Resnnt"><u>Resend code</u></string>
+</resources>
